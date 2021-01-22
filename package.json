@@ -4,8 +4,8 @@
   "description": "Aprendiendo a crear REST apis",
   "main": "index.js",
   "scripts": {
-    "desarrollo": "nodemon ./index/js",
-    "start": "node ./index/js"
+    "desarrollo": "nodemon ./index.js",
+    "start": "node ./index.js"
   },
   "author": "Jian Wang",
   "license": "ISC",

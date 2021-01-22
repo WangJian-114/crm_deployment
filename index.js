@@ -17,6 +17,10 @@ mongoose.connect(process.env.DB_URL,{
 const app = express();
 
 
+// Carpeta publica // para que muestra imagen en el react
+app.use(express.static('uploads'));
+
+
 // Habilitar bodyparser
 
 app.use(bodyParser.json());
@@ -53,8 +57,6 @@ app.use('/', routes());
 
 
 
-// Carpeta publica // para que muestra imagen en el react
-app.use(express.static('uploads'));
 
 
 
