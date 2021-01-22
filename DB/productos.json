@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "5ffdf2d5b1fec321d4e36316"
+  },
+  "nombre": "Camisa Html",
+  "precio": 30,
+  "imagen": "sjT8PiMlZ.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffdf2e2b1fec321d4e36317"
+  },
+  "nombre": "Camisa Redux",
+  "precio": 35,
+  "imagen": "qPDtWgeMo.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600347dc9cf3182728b0da0e"
+  },
+  "nombre": "React",
+  "precio": 50,
+  "imagen": "K93sWGPkL.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6003489b9cf3182728b0da0f"
+  },
+  "nombre": "TypeScript",
+  "precio": 45,
+  "imagen": "r2y15RJiJ.jpeg",
+  "__v": 0
+}]

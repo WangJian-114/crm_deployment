@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "5ffd0396483aad0428e58aaa"
+  },
+  "nombre": "Fernando",
+  "apellido": "Wang",
+  "empresa": "Mercado Libre",
+  "email": "hotmail@hotmail.com",
+  "telefono": "12345678",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009ec5a33f27b0f10341765"
+  },
+  "nombre": "Kobe",
+  "apellido": "brynt",
+  "empresa": "NBA",
+  "email": "kobe@kobe.com",
+  "telefono": "1234567",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009fc0ab305aa45dceed695"
+  },
+  "nombre": "Ezequiel",
+  "apellido": "Gomez",
+  "empresa": "Youtube",
+  "email": "youtube@youtube.com",
+  "telefono": "12345678",
+  "__v": 0
+}]
