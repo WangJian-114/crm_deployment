@@ -29,6 +29,7 @@ app.use(bodyParser.urlencoded({extended: true}));
 
 
 // Definir un dominio para recibir las peticiones
+/*
 const whitelist = [process.env.FRONTEND_URL];
 const corsOpcions = {
 
@@ -45,11 +46,12 @@ const corsOpcions = {
     }
 
 }
+*/
 
 
 
 // Habilitar cors 
-app.use(cors(corsOpcions));
+app.use(cors());
 
 // Rutas de la app
 app.use('/', routes());
